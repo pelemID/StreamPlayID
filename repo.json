@@ -1,0 +1,9 @@
+{
+    "name": "Stream Play ID based on Phisher Repo",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/RepoIcon.png",
+    "description": "Stream Play ID",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/pelemID/StreamPlayID/refs/heads/builds/plugins.json"
+    ]
+}
