@@ -239,6 +239,7 @@ open class StreamPlay(val sharedPref: SharedPreferences? = null) : TmdbProvider(
         "/movie/top_rated?api_key=$apiKey&region=US" to "Top Rated Movies",
         "/tv/top_rated?api_key=$apiKey&region=US" to "Top Rated TV Shows",
         "/discover/tv?api_key=$apiKey&with_original_language=ko" to "Korean Shows",
+        "/discover/tv?api_key=$apiKey&with_original_language=id" to "Indonesian Shows",
         "/discover/tv?api_key=$apiKey&with_genres=99" to "Documentary",
         "/movie/upcoming?api_key=$apiKey&region=US" to "Upcoming Movies",
     )
